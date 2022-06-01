@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "accessible-astro-components": "^1.5.4",
-    "astro-icon": "^0.7.1"
+    "astro-icon": "^0.7.1",
+    "postcss-markdown": "^1.2.0"
   },
   "devDependencies": {
     "astro": "^1.0.0-beta.5",
